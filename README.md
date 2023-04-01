@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lee Yeon Woo (이연우)</h1>
-<h3 align="center">I am Korean and I am currently attending <a href="https://www.google.com/maps/place/%EB%82%99%EB%8F%99%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90/data=!3m1!4b1!4m6!3m5!1s0x3568c26224511de5:0xf8fb64199b4bc8c5!8m2!3d35.1055821!4d128.9724432!16s%2Fg%2F11b6th98zp>Nagdong Elementary School</a>.</h3>
+<h3 align="center">I am Korean and I am currently <b>attending Nagdong Elementary School</b>.</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagdongdev-0713&label=Profile%20views&color=0e75b6&style=flat" alt="nagdongdev-0713" /> </p>
 
