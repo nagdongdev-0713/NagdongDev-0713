@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagdongdev-0713&label=Profile%20views&color=0e75b6&style=flat" alt="nagdongdev-0713" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagdongdev-0713" alt="nagdongdev-0713" /></a> </p>
+<p align="left"> <a href="https://github.com/nagdongdev-0713"><img src="https://github-profile-trophy.vercel.app/?username=nagdongdev-0713" alt="nagdongdev-0713" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
