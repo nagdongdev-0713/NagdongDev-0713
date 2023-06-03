@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lee Yeon Woo (이연우)</h1>
+<h1 align="center">Hi 👋, I'm Lee Yeon Woo</h1>
 <h3 align="center">I am Korean and I am currently <b>attending Nagdong Elementary School</b>.</a></h3>
 <b>방문자 수: </b><p align="left"> <img src="https://komarev.com/ghpvc/?username=nagdongdev-0713&label=Profile%20views&color=0e75b6&style=flat" alt="nagdongdev-0713" /> </p>
 
